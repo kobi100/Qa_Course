@@ -1,0 +1,15 @@
+body{
+	display : grid;
+	
+	grid-template-rows: auto auto;
+	grid-column-gap:10%;
+}
+
+.char{
+	display:grid;
+	grid-template-rows :auto auto;
+	 
+}
+.pic{
+       
+}
